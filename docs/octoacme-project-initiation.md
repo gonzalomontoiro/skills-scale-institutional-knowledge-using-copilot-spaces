@@ -14,10 +14,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (use stakeholder checklist)
 - High-level timeline and key milestones
-- Initial risk list
+- Initial risk list (with identified risk owners by role)
 - Resource needs (team roles, rough effort estimate)
+  - Consider need for: Developers, Scrum Master, UX/UI Designer, DevOps Engineer, Technical Writer, QA
 
 ## Project One-pager Template
 - Project name:
